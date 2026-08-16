@@ -1,6 +1,8 @@
 # krippendorffs.alpha
 Compute a confidence interval for Krippendorff's Alpha Use krippendorffs.alpha (krippendorffsalpha) With (In) R Software
 
+https://www.youtube.com/watch?v=ryqn6nvPQc4
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
